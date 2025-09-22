@@ -12,9 +12,6 @@ customText = ""
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
-[sidebar]
-subtitle = "Немного о том и о другом"
-
 [sidebar.avatar]
 enabled = false
 
@@ -73,7 +70,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
