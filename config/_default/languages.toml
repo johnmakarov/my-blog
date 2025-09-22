@@ -1,11 +1,5 @@
-[en]
-languageName = "English"
-languageDirection = "ltr"
-title = "Example Site"
-weight = 1
-
 [ru]
 languageName = "Русский"
 languageDirection = "ltr"
-title = "Пример сайта"
-weight = 2
+title = "Ложка качества?"
+weight = 1
